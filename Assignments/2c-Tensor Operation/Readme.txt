@@ -12,4 +12,4 @@ b) insertion sort
 
 c) binary search
 
-
+https://colab.research.google.com/drive/1rW-Ho_fz0RnFmkDvbb3K4RxIofnOG3wc#scrollTo=0KoCp-15ozwA
