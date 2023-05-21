@@ -7,3 +7,5 @@ Semantic kernel : https://colab.research.google.com/drive/1KeMjzg20hhN3MWNs_qlFJ
 Agent GPT : https://youtu.be/POHStujbohE
 
 Visual Chatgpt: https://youtu.be/WoXnEjpK8O4
+
+Adobe Firefly: Access not Available
