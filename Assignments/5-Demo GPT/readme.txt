@@ -18,6 +18,10 @@ Jarvis Hugginggpt:
 
 https://youtu.be/BSNHVzWZxRY
 
+OpenAI chat with excel:
+
+https://colab.research.google.com/drive/1X445BBVe_phvBjdXpZXbSSuzzFNc6t7H?authuser=1#scrollTo=oUKir7u5mRPj
+
 Visual Chatgpt: 
 
 https://youtu.be/WoXnEjpK8O4
