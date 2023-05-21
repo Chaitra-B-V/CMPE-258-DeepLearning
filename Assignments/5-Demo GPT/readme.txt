@@ -14,6 +14,10 @@ Agent GPT :
 
 https://youtu.be/POHStujbohE
 
+Jarvis Hugginggpt:
+
+https://youtu.be/BSNHVzWZxRY
+
 Visual Chatgpt: 
 
 https://youtu.be/WoXnEjpK8O4
