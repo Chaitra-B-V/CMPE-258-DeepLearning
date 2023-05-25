@@ -1,6 +1,6 @@
 
-#### Write  a colab  numpy only from scratch 3 layer deep neural network for non linear regression
-Part A
+1) Part A
+
 3 layer neural network 
 
 2 variable based non linear equation(quadratic non linear equation)
@@ -15,9 +15,7 @@ used appropriate number of neurons and epochs
 https://colab.research.google.com/drive/1zVlRCicHugcvIcv7FToDNUNRXKiEUgaH?authuser=1#scrollTo=iKuKdjN7YxhF
 
 
-#### Write a colab pytorch from scratch - 3 layer deep neural network for non linear regression withotu using pytorch builtin layer functionality 
-#### Write  a colab pytorch classes based - 3 layer deep neural network for non linear regression using pytorch builtin functionality of modules etc.,. backprop etc.,.
-Part B and C
+2) Part B and C
   - Pytorch with builtin functionality
   - Pytorch without builtin functionality
 
@@ -31,9 +29,10 @@ Part B and C
 https://colab.research.google.com/drive/12OoSlK2BiQS2rcuBxMc9faUYu8aHESbu?usp=sharing
 
 
-3) (Part D) Pytorch Lightning: Pytorch_lightning.ipynb
+3) Write  a colab  pytorch lightening version
+(Part D) Pytorch Lightning: Pytorch_lightning.ipynb
 
-This colab consists of: 
+
 
   - Designing the model with Pytorch Lightning 
   - This Neural network model consists of 4 layers : 1 input, 2 hidden and 1 output
