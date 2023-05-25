@@ -44,7 +44,6 @@ https://colab.research.google.com/drive/1agNnHBsY0GUmOdDmgoQPBru0hBpK8d3v?usp=sh
 
 4) (Part E, F and G) Tensorflow: Neural_network_tensorflow.ipynb
 
-The notebook consists of the following implemented using:
   
   - Tensorflow - built in layers functional API
   - Tensorflow from scratch low level API
@@ -57,11 +56,11 @@ The notebook consists of the following implemented using:
     - used appropriate number of neurons and epochs
     - SGD and Adam optimizer for optimization
 
-Colab :
+https://colab.research.google.com/drive/1ke5u3Pkme97iRGwD-83dV_qeb7OizExF?authuser=1#scrollTo=4v7g7Zgaa89a
 
 5) (Part H) JAX : jax_neural_network_dl.ipynb
 
-This notebook consist of :
+
 
    - 3 layer Neural network for non-linear regression from scratch using Jax 
    - Developed neural network for 3d non linear cubic equation data and 
@@ -69,5 +68,5 @@ This notebook consist of :
    - Relu for non-linear activation function, implemented chain rule based gradient propagation
    - used appropriate number of neurons and epochs
 
-Colab :
+https://colab.research.google.com/drive/12PQdxExCH-T6JdfkxTBJUrkMe9CU4ZSC?authuser=1#scrollTo=uR3B3VrzzAQC
 
