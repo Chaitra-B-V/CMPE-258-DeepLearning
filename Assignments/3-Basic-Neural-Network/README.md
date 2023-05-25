@@ -8,3 +8,4 @@ https://colab.research.google.com/drive/1zVlRCicHugcvIcv7FToDNUNRXKiEUgaH?authus
 #### Write a colab pytorch from scratch - 3 layer deep neural network for non linear regression withotu using pytorch builtin layer functionality 
 
 
+https://colab.research.google.com/drive/12OoSlK2BiQS2rcuBxMc9faUYu8aHESbu?usp=sharing
